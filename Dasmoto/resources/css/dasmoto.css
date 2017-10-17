@@ -1,0 +1,52 @@
+html {
+  font-family: Helvetica;
+}
+
+/*This styles the header at the top of the webpage */
+#header{
+  background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  font-size:100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+/*These add a light gray background to the sections of the webpage */
+#brushes{
+  background-color: #f2f2f2;
+}
+
+#frames{
+  background-color: #f2f2f2;
+}
+
+#paint{
+  background-color: #f2f2f2;
+}
+
+/*These style the headings for each of the sections of the webpage */
+.brushes {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.paint {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+/*This changes the style of the price to stand out on the webpage */
+.price {
+  font-weight: bold;
+  color: blue;
+}
